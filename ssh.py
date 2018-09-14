@@ -1,4 +1,5 @@
 import paramiko, sys, os, socket
+global host, username, line, input_file
 
 line = "\n-------------------------------------------------------\n"
 
